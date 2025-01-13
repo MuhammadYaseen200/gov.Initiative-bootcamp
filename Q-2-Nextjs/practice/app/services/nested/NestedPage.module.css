@@ -1,0 +1,14 @@
+/* styles/NestedPage.module.css */
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: darkgreen;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
